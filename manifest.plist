@@ -11,31 +11,31 @@
 					<key>kind</key>
 					<string>software-package</string>
 					<key>url</key>
-					<string>https://github.com/ty804/blackPlayer/raw/master/IOSHDProject.ipa</string>
+					<string>https://ipa</string>
 				</dict>
 				<dict>
 					<key>kind</key>
 					<string>display-image</string>
 					<key>url</key>
-					<string>https://github.com/ty804/blackPlayer/raw/master/57x57.png</string>
+					<string>https://57</string>
 				</dict>
 				<dict>
 					<key>kind</key>
 					<string>full-size-image</string>
 					<key>url</key>
-					<string>https://github.com/ty804/blackPlayer/raw/master/512x512.png</string>
+					<string>https://512</string>
 				</dict>
 			</array>
 			<key>metadata</key>
 			<dict>
 				<key>bundle-identifier</key>
-				<string>com.sxrs.agent</string>
+				<string>BlackBoxPro.App</string>
 				<key>bundle-version</key>
-				<string>4.6.1</string>
+				<string>1.6.7</string>
 				<key>kind</key>
 				<string>software</string>
 				<key>title</key>
-				<string>IOSHDProject</string>
+				<string>黑匣子player</string>
 			</dict>
 		</dict>
 	</array>
